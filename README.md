@@ -4,7 +4,7 @@
 
 I am currently pursuing my Master's in Computer Applications from University School of Information, Communication and Technology. I have a keen interest in front-end technologies and am continuously learning and exploring new concepts.
 
-🚀 **Skills**: React, JavaScript, HTML, CSS, Tailwind CSS
+🚀 **Skills**: React, JavaScript, HTML, CSS, Tailwind CSS, C++, Problem Solving
 
 🌟 **Currently Learning**: Remote State Management, Tailwind CSS
 
