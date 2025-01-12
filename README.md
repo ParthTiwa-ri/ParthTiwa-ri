@@ -2,12 +2,12 @@
 
 👨‍💻 React Developer | 🎓 MCA Student | 🌱 Quick Learner
 
-I am currently pursuing my Master's in Computer Applications from University School of Information, Communication and Technology. I have a keen interest in front-end technologies and am continuously learning and exploring new concepts.
-
-
 Create stunning, animationted frontends that look amazing and feel smooth.
 
 Visit my personal portfolio for amazing designs and animations: www.parthtiwari.in
+
+I am currently pursuing my Master's in Computer Applications from University School of Information, Communication and Technology. I have a keen interest in front-end technologies and am continuously learning and exploring new concepts.
+
 
 🚀 **Skills**: React, NextJs, Node JS, Express JS, MongoDB, Tailwind CSS, Prisma, Framer Motion, C++, Problem Solving
 
