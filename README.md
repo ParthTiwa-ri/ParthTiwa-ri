@@ -2,7 +2,7 @@
 
 👨‍💻 React Developer | 🎓 MCA Student | 🌱 Quick Learner
 
-Create stunning, animationted frontends that look amazing and feel smooth.
+Create stunning, animated frontend that look amazing and feel smooth.
 
 Visit my personal portfolio for amazing designs and animations: www.parthtiwari.in
 
